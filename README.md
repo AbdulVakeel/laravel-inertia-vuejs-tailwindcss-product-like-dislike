@@ -46,7 +46,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://skycodelab.io//likedislike/product" alt=""style="max-width: 100%;"></td>
+<td align="center"><img src="https://skycodelab.io//likedislike/product.png" alt=""style="max-width: 100%;"></td>
 <td align="center"><img src="https://skycodelab.io//likedislike/product_add.png" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
